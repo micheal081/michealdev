@@ -39,7 +39,7 @@ const Portfolio = () => {
       tech: "Tech Stacks",
       technologies: "Node.Js, TypeScript, Express.Js, MongoDB, Git/Github, ClickUp, Redis, Kubernetes, Docker, AWS, Mongoose",
       link: "#",
-      github: "https://github.com/Meri-MG/To-Do-List",
+      github: "https://payflex.vercel.app",
     },
   ];
 
