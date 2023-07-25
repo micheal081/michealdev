@@ -29,9 +29,9 @@
 
 - Choose a folder in your local machine where you want this repository to be copied
 
-- Clone this [repository](https://github.com/Meri-MG/portfolio---react) to your local machine 
+- Clone this [repository](https://github.com/micheal081/michealdev.git) to your local machine 
 - ```
-  git clone git@github.com:Meri-MG/portfolio---react.git
+  git clone https://github.com/micheal081/michealdev.git
   ```
 
 - Navigate to `cd portfolio---react`  directory.
@@ -48,14 +48,14 @@
 
 ## Author
 
-:woman: **Meri Gogichashvili**
+:man: **Micheal Ighietsemhe**
 
-- [GitHub](https://github.com/Meri-MG)
-- [LinkedIn](https://www.linkedin.com/in/meri-gogichashvili/)
+- [GitHub](https://github.com/micheal081)
+- [LinkedIn](https://www.linkedin.com/in/micheal-ighietsemhe-502640222/)
 
 ## 🤝 Contributing
 - Contributions, issues, and feature requests are welcome!
-- Feel free to check the [issues page](https://github.com/Meri-MG/portfolio---react/issues).
+- Feel free to check the [issues page](https://github.com/micheal081/michealdev/issues/).
 
 # Show your support
 Give a ⭐ if you like this project!
