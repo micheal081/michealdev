@@ -12,6 +12,7 @@
     gap: 1.2rem;
 }
 
+
 .contact__option {
     background: var(--color-bg-variant);
     padding: 1.2rem;
@@ -76,5 +77,10 @@ textarea {
 @media screen and (max-width: 600px){
     .container.contact__container {
         width: var(--container-width-sm);
+    }
+
+    .getIn {
+        padding: 0 2.5rem;
+        font-weight: 300;
     }
 }

@@ -65,4 +65,10 @@
         width: 100%;
         padding: 2rem 1rem;
     }
+
+    .experience__content {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        row-gap: 2rem;
+    }
 }

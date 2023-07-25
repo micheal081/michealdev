@@ -30,7 +30,7 @@ const Contact = () => {
   return (
     <section id="contact">
       <h5>Get In Touch</h5>
-      <h5>
+      <h5 className='getIn'>
         I do receive your messages and will respond asap if the valid email is
         provided 
       </h5>
