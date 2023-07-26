@@ -42,7 +42,7 @@ const Experience = () => {
           </div>
         </div> */}
         <div className="experience__backend">
-          <h3>Back-end Development</h3>
+          {/* <h3>Back-end Development</h3> */}
           <div className="experience__content">
           <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
