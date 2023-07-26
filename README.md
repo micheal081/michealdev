@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-- [Live Demo](https://meri-mg-portfolio.netlify.app/)
+- [Live Demo](https://michealdev.vercel.app/)
 
 
 # Getting Started
@@ -59,10 +59,3 @@
 
 # Show your support
 Give a ⭐ if you like this project!
-
-# Acknowledgments
-Thanks to [EGATOR](https://www.youtube.com/watch?v=G-Cr00UYokU&list=WL&index=55&t=1845s) tutorial!
-=======
-# michealdev
-My Portfolio
->>>>>>> 70e61b10dfb272dcf541246c301ddb819e4dd1de
