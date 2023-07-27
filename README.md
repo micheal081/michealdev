@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # Personal-Portfolio
-> This is personal portfolio website.
+> This is personal portfolio website
 
 ![Portfolio](https://raw.github.com/micheal081/michealdev/main/src/assets/port.png)
 
